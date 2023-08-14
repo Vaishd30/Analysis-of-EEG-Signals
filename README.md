@@ -52,23 +52,35 @@ Markup : *Regression algorithms are commonly used for analysing EEG signals beca
 
 # Before meditation result
 ![image](https://github.com/Vaishd30/Analysis-of-EEG-Signals/assets/139155413/5e0b3564-7908-4a83-8e6e-12fa2de81d33)
+
 The above figure consists of Frequency vs PSD , Regression line , Residual plot and regression parameters which indicates a more alert mind state, resulting in more frequent alpha waves in the brain.
 
 # After meditation result
 ![image](https://github.com/Vaishd30/Analysis-of-EEG-Signals/assets/139155413/a7de9c0f-04b6-4895-8db9-30032f578296)
+
 The above figure consists of Frequency vs PSD , Regression line, Residual plot and regression parameters which indicates a focused mind state and cognitive task is performed, resulting in more frequent beta waves in the brain.
 
 # References
 [1] Aftanas, L. I., & Golocheikine, S. A. (2001). Non-linear dynamic complexity of the human EEG during meditation. Neuroscience letters, 310(1), 57-60.
+
 [2] Baijal, S., & Srinivasan, N. (2010). Theta activity and meditative states: spectral changes during concentrative meditation. Cognitive processing, 11(1), 31-38.
+
 [3] Cahn, B. R., & Polich, J. (2006). Meditation states and traits: EEG, ERP, and neuroimaging studies. Psychological bulletin, 132(2), 180.
+
 [4] Carter, O. L., Presti, D. E., Callistemon, C., Ungerer, Y., Liu, G. B., & Pettigrew, J. D. (2005). Meditation alters perceptual rivalry in Tibetan Buddhist monks. Current Biology, 15(11), R412-R413.
+
 [5] Dillbeck, M. C., & Bronson, E. C. (1981). Short-term longitudinal effects of the transcendental meditation technique on EEG power and coherence. International Journal of Neuroscience, 14(3-4), 147-151.
+
 [6] Gao, X., Xu, M., Xu, P., Wang, Y., Zhu, C., & Wang, Y. (2011). EEG-fMRI study on the interplay between brain spontaneous activity and meditation. NeuroImage, 57(3), 846-850.
+
 [7] Hinterberger, T., Schmidt, S., Kamei, T., & Walach, H. (2014). EEG feedback and subjective meditation. International Journal of Psychophysiology, 93(1), 59-64.
+
 [8] Josipovic, Z. (2014). Neural correlates of nondual awareness in meditation. Annals of the New York Academy of Sciences, 1307(1), 9-18.
+
 [9] Khushu, S., Kumar, V., Tripathi, R. P., & Jain, N. (2006). Quantitative EEG and neurofeedback therapy in children with attention deficit hyperactivity disorder: a retrospective feasibility study. Journal of Neurotherapy, 10(4), 37-44.
+
 [10] Leung, M. K., Chan, C. C., Yin, J., Lee, C. F., So, K. F., & Lee, T. M. (2013). Increased gray matter volume in the right angular and posterior parahippocampal gyri in loving-kindness meditators. Social cognitive and affective neuroscience, 8(1), 34-39.
+
 [11] Liang, W. K., Lo, M. T., Yang, A. C., Peng, C. K., Cheng, S. K., & Tseng, P. (2015). Revealing the brain's adaptability and the transcranial direct current stimulation facilitating effect in inhibitory control by multiscale entropy. NeuroImage, 108, 356-366.
 
 
