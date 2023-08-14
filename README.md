@@ -10,12 +10,16 @@ Machine learning algorithms can analyze EEG signals and correctly forecast a per
 
 # RMS MAXIMUS 32 EEG
 ![image](https://github.com/Vaishd30/Analysis-of-EEG-Signals/assets/139155413/6d0c2ad2-942c-416d-864f-e7e7bffe2ca3)
+
 ![image](https://github.com/Vaishd30/Analysis-of-EEG-Signals/assets/139155413/d85e6218-f84b-4c71-be38-fcc30eaa5674)
+
 ![image](https://github.com/Vaishd30/Analysis-of-EEG-Signals/assets/139155413/0e821d96-68d9-405d-aa80-03bb2296593d)
+
 ![image](https://github.com/Vaishd30/Analysis-of-EEG-Signals/assets/139155413/67d14169-3a2f-45ff-b224-54bd6529aed5)
 
 # Regression Algorithm
 Regression algorithms are commonly used for analysing EEG signals because they can help to model the relationship between EEG data and some other variable of interest, such as the level of concentration. EEG signals are typically complex and noisy, so it can be challenging to directly interpret the raw data. Regression algorithms provide a way to extract meaningful information from the data by identifying patterns and relationships between the EEG signal and the target variable.
+
 ![image](https://github.com/Vaishd30/Analysis-of-EEG-Signals/assets/139155413/ba608363-d420-4acc-9e8c-cee0c0abfd50)
 
 # Methodology
