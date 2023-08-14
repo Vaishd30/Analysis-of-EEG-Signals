@@ -32,23 +32,23 @@ Regression algorithms are commonly used for analysing EEG signals because they c
 ![image](https://github.com/Vaishd30/Analysis-of-EEG-Signals/assets/139155413/d3b0f934-f541-4493-89a1-941d697c0c9e)
 
 # Algorithm
-Markup : *Regression algorithms are commonly used for analysing EEG signals because they can help to model the relationship between EEG data and some other variable of interest, such as the level of concentration.
-*EEG signals are typically complex and noisy, so it can be challenging to directly interpret the raw data.
-*Regression algorithms provide a way to extract meaningful information from the data by identifying patterns and relationships between the EEG signal and the target variable. 
-*The machine learning process known as regression is used to forecast a continuous numerical value or output based on one or more input variables.
-*Finding the correlation between the input and output variables and using that correlation to predict future data are the two main objectives of regression analysis.
-*Building a mathematical model that depicts the relationship between the input variables and the output variable is how regression algorithms operate.
-*A training dataset, which consists of a collection of input-output pairs, is used to build the model. The algorithm then use this model to forecast outcomes for fresh data that it hasn't before encountered.
-*Pandas, Numpy, Scikit-Learn, and Matplotlib.pyplot should all be imported. Import data from an Excel file 
-*FFT values and frequency should be extracted from the loaded data.
-*Using Matplotlib, create a scatter plot of the FFT values versus frequency. 
-*Scikit-learn is used to fit a linear regression model to the FFT values and frequency data. 
-*Making use of the regression model, make predictions. 
-*The difference between the actual and anticipated FFT values is used to calculate the residuals. 
-*Use Scikit-Learn to print the regression coefficients and model performance indicators like mean squared error and R-squared. 
-*Based on the predictions of the regression model, calculate the concentration level 
-*Utilizing Matplotlib, plot the regression line and scatter plot of the FFT values against frequency.
-*Using matplotlib, create a scatter plot of the FFT results versus the residuals and add a horizontal line at 0 to see the residuals.
+Markup : * Regression algorithms are commonly used for analysing EEG signals because they can help to model the relationship between EEG data and some other variable of interest, such as the level of concentration.
+* EEG signals are typically complex and noisy, so it can be challenging to directly interpret the raw data.
+* Regression algorithms provide a way to extract meaningful information from the data by identifying patterns and relationships between the EEG signal and the target variable. 
+* The machine learning process known as regression is used to forecast a continuous numerical value or output based on one or more input variables.
+* Finding the correlation between the input and output variables and using that correlation to predict future data are the two main objectives of regression analysis.
+* Building a mathematical model that depicts the relationship between the input variables and the output variable is how regression algorithms operate.
+* A training dataset, which consists of a collection of input-output pairs, is used to build the model. The algorithm then use this model to forecast outcomes for fresh data that it hasn't before encountered.
+* Pandas, Numpy, Scikit-Learn, and Matplotlib.pyplot should all be imported. Import data from an Excel file 
+* FFT values and frequency should be extracted from the loaded data.
+* Using Matplotlib, create a scatter plot of the FFT values versus frequency. 
+* Scikit-learn is used to fit a linear regression model to the FFT values and frequency data. 
+* Making use of the regression model, make predictions. 
+* The difference between the actual and anticipated FFT values is used to calculate the residuals. 
+* Use Scikit-Learn to print the regression coefficients and model performance indicators like mean squared error and R-squared. 
+* Based on the predictions of the regression model, calculate the concentration level 
+* Utilizing Matplotlib, plot the regression line and scatter plot of the FFT values against frequency.
+* Using matplotlib, create a scatter plot of the FFT results versus the residuals and add a horizontal line at 0 to see the residuals.
 
 # Before meditation result
 ![image](https://github.com/Vaishd30/Analysis-of-EEG-Signals/assets/139155413/5e0b3564-7908-4a83-8e6e-12fa2de81d33)
