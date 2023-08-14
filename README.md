@@ -1,4 +1,4 @@
-![image](https://github.com/Vaishd30/Analysis-of-EEG-Signals/assets/139155413/fa6fee46-e78a-42c4-b519-46c5070fbaab)# Analysis-of-EEG-Signals
+# Analysis-of-EEG-Signals
 Analysis of EEG Signals to Understand Impact of Meditation on Concentration
 
 # Abstract
