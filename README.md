@@ -32,7 +32,7 @@ Regression algorithms are commonly used for analysing EEG signals because they c
 ![image](https://github.com/Vaishd30/Analysis-of-EEG-Signals/assets/139155413/d3b0f934-f541-4493-89a1-941d697c0c9e)
 
 # Algorithm
-Markup : * Regression algorithms are commonly used for analysing EEG signals because they can help to model the relationship between EEG data and some other variable of interest, such as the level of concentration.
+* Regression algorithms are commonly used for analysing EEG signals because they can help to model the relationship between EEG data and some other variable of interest, such as the level of concentration.
 * EEG signals are typically complex and noisy, so it can be challenging to directly interpret the raw data.
 * Regression algorithms provide a way to extract meaningful information from the data by identifying patterns and relationships between the EEG signal and the target variable. 
 * The machine learning process known as regression is used to forecast a continuous numerical value or output based on one or more input variables.
